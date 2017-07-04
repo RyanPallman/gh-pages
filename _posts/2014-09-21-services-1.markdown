@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Server-multiple.svg
+img: Server-multiple.png
 category: Services
 title: Minecraft Server Set Up
 description: |
